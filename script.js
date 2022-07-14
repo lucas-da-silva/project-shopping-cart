@@ -123,10 +123,7 @@ const addEventForButtons = async () => {
 };
 
 buttonClear.addEventListener('click', () => {
-  const all = document.querySelectorAll('.cart__item').length;
-  for (let i = 0; i < all; i += 1) {
-    ol.removeChild(ol.firstChild);
-  }
+  ol.innerHTML = '';
   total.innerHTML = '0.00';
 });
 
