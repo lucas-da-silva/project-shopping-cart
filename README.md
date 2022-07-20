@@ -27,6 +27,10 @@ E o desenvolvimento orientado a testes, o famoso TDD (Test Driven Development)!
 
 O [manual da API do Mercado Livre](https://developers.mercadolivre.com.br/pt_br/itens-e-buscas) contém todas as informações acerca da API (retorno, estrutura).
 
+---
+
+## Requisitos
+
 ## 1. (TDD) Desenvolva testes de no mínimo 25% de cobertura total e 100% da função `fetchProducts`
 
 <details>
