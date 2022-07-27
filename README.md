@@ -10,7 +10,7 @@ Primeiro projeto de front-end, onde foi a primeira vez que tive contato com uma 
 1. No terminal, em um diretório de sua escolha, clonar o repositório:
 
 ```
-git clone git@github.com:lucas-da-silva/trybe-shopping-cart.git
+git clone git@github.com:lucas-da-silva/shopping-cart.git
 ```
 
 2. Dentro do repositório, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
