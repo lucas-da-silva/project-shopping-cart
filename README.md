@@ -1,4 +1,4 @@
-# Bem vindo ao projeto Shopping Cart
+# Bem vindo ao repositório do projeto Shopping Cart
 
 ## Comentários
 Primeiro projeto de front-end, onde foi a primeira vez que tive contato com uma API. A API utilizada aqui é a do mercado livre, que nesse projeto, retorna o resultado da busca sobre computadores. Este é o meu projeto favorito, desenvolver diversas funcionalidades e depois estilizar com CSS, foi incrível.
